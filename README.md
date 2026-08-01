@@ -1,51 +1,14 @@
-# 👋 Hi, I'm Samrin Khan
-
-### 🧠 Software Engineer | Python & Web Developer  
-🎯 Building scalable web applications with clean code & best practices.
-
----
-
-## 💻 About Me
-I’m a Computer Science student and passionate backend developer. I focus on Python frameworks like Django, Flask, FastAPI, and REST APIs.
-
-🌱 Currently enhancing backend skills & exploring cloud basics  
-🚀 Open to internships, open source, and real world projects
-
----
-
-## 🛠️ Tech Stack
-### 💻 Languages
-Python | Java | JavaScript
-
-### 🧱 Backend
-Django | Flask | FastAPI
-
-### 🕸️ Frontend
-HTML | CSS
-
-### 🗃️ Databases
-MySQL | SQL
-
-### ⚙️ Tools
-Git | GitHub | VS Code
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samrin-blue?logo=linkedin)](https://www.linkedin.com/in/samrin-khan-3a46ba385/)
-
-
-<!--
-**Samrin-Khan-dev/Samrin-Khan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 About Me
+🌱 Currently in Phase 1: Java OOP mastery + Communication foundation (Month 0–4)
+💻 Learning Core Java, DSA, Spring Boot, AWS step by step
+🗣️ Also building spoken & technical English alongside coding, daily practice
+🤖 Using AI tools (GitHub Copilot, ChatGPT/Claude, Cursor IDE, Notion AI) to accelerate learning
+🎯 Goal: Java Backend Developer role (TCS / Infosys / Wipro / Amazon / Flipkart) — 6–20 LPA
+🚀 Long term: AI/ML Engineer / Tech Lead / Senior Dev (30+ LPA) in 2–3 years
+🗺️ My Roadmap
+Phase	Timeline	Focus
+✅ Start	Day 0	Java + HTML/CSS/JS/Python basics
+🔵 Phase 1	0–4 months	Java OOP mastery + communication foundation
+⬜ Phase 2	4–10 months	Java backend (Spring Boot APIs) + spoken English fluency
+⬜ Phase 3	10–18 months	Full stack + AWS cloud + confident communication
+⬜ Phase 4	18–24 months	Placement prep — 250+ LeetCode, System Design, Mock HR
